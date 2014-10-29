@@ -12,4 +12,9 @@ conda install ipython-notebook pandas matplotlib basemap pip
 ```
 pip install apachelog pygeoip
 ```
+После завершения инсталяции скачиваем этот репозиторий, и выполняем в папке с ним:
+
+```
+ipython notebook
+```
 
