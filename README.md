@@ -10,7 +10,7 @@ TOC
 How to install requirements
 ===========================================
 
-The fastest way si to install [Miniconda](http://conda.pydata.org/miniconda.html), that contains [`conda`](http://conda.pydata.org/docs/intro.html) package manager and  и `Python`.
+The fastest way is to install [Miniconda](http://conda.pydata.org/miniconda.html), that contains [`conda`](http://conda.pydata.org/docs/intro.html) package manager and  и `Python`.
 
 Then open comand prompt (will work also in Windows) and put:
 
