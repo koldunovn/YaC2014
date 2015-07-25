@@ -15,7 +15,7 @@ The fastest way is to install [Miniconda](http://conda.pydata.org/miniconda.html
 Then open comand prompt (will work also in Windows) and put:
 
 ```
-conda install ipython-notebook pandas matplotlib basemap pip
+conda install ipython-notebook pandas seaborn matplotlib basemap pip
 ```
 and then
 ```
